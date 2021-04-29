@@ -23,7 +23,7 @@ Use the buttons below to know more about me.""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/miakhalifachatgroup"
+                        "💬 Group", url="https://t.me/CheemsBotChat"
                     ),
                     InlineKeyboardButton(
                         "Channel 🔈", url="https://t.me/CheemsUserbot"
